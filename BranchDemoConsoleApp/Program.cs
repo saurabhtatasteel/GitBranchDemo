@@ -12,7 +12,7 @@ namespace BranchDemoConsoleApp
 		{
 			Console.WriteLine("Issue1 fix commit 1");
 			Console.WriteLine("Adding for master again");
-			Console.WriteLine("Issue fix commit 2");
+			Console.WriteLine("Issue fix commit 2 again");
 		}
 	}
 }
