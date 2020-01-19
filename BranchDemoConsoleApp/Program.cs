@@ -10,7 +10,7 @@ namespace BranchDemoConsoleApp
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Third commit");
+			Console.WriteLine("Issue1 fix commit 1");
 		}
 	}
 }
